@@ -1,2 +1,3 @@
 # Robot Analysis Project
-This program understands, imports, verifies, analyzes, tests, debugs, and improves data.
+# This program understands, imports, verifies, analyzes, tests, debugs, and improves data.
+# There is a python file with code that reads and analyzes the CSV file. The CSV files contains 1000 sensor readings from the robot and the code uses that file to give the number of readings, first reading, last reading, highest number, lowest number, the average, readings bellow 20, readings above 60, unusual readings, unusual percent, unusual reading id's, the type of readings, and the average readings divided in groups.
